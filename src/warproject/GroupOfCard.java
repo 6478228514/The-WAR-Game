@@ -19,7 +19,7 @@ public class GroupOfCard extends Deck {
         return p2Deck;
     }
 
-    public void setCompDeck(ArrayList<Card> p2Deck) {
+    public void setp2Deck(ArrayList<Card> p2Deck) {
         this.p2Deck = p2Deck;
     }
 
@@ -27,7 +27,7 @@ public class GroupOfCard extends Deck {
         return p1Deck;
     }
 
-    public void setPlayerDeck(ArrayList<Card> p1Deck) {
+    public void setP1Deck(ArrayList<Card> p1Deck) {
         this.p1Deck = p1Deck;
     }
 

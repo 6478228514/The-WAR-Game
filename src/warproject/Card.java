@@ -8,7 +8,7 @@ package warproject;
  *
  * @author Smit Dobariya
  * @author Sukhman Wahniwal
- * @author Jaismin
+ * @author Jaismeen Gill
  */
 public class Card {
     

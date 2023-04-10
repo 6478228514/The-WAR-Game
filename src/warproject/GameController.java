@@ -175,8 +175,8 @@ public class GameController extends GroupOfCard {
                     p1CollectDeck.add(0,super.getP1Deck().get(0));
                     p1CollectDeck.add(0,super.getP2Deck().get(0));
                     
-                    super.getP2Deck().remove(3);
-                    super.getP1Deck().remove(3);
+                    super.getP2Deck().remove(4);
+                    super.getP1Deck().remove(4);
                     for(int i = 0; i < 3; i++)
                     {
                     super.getP2Deck().remove(0);
@@ -208,8 +208,8 @@ public class GameController extends GroupOfCard {
                     p2CollectDeck.add(0,super.getP2Deck().get(4));
                     p2CollectDeck.add(0,super.getP1Deck().get(0));
                     p2CollectDeck.add(0,super.getP2Deck().get(0));
-                    super.getP2Deck().remove(3);
-                    super.getP1Deck().remove(3);
+                    super.getP2Deck().remove(4);
+                    super.getP1Deck().remove(4);
                     for(int i = 0; i < 3; i++)
                     {
                     super.getP2Deck().remove(0);
